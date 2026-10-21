@@ -1,4 +1,4 @@
-#HANGMAN GAME
+# HANGMAN GAME
 A classic word-guessing game played right in your command line. Guess the hidden word letter by letter before you run out of attempts and complete the ASCII-art gallows.
 
 How It Works
